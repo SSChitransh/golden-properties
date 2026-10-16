@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Replace the placeholder hostname in sitemap.xml before production indexing.
+Sitemap: https://YOUR-CONFIRMED-DOMAIN.example/sitemap.xml
